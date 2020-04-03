@@ -1,7 +1,6 @@
 # EDA-Project1
 ##### Group Members: Josh, Luke, & Wasila
 <br/><br/>
-<br/><br/>
 **Client**: WomenTechWomenYes (WTWY)
 
 **WTWY Objective**: Send recruiting teams to NYC subway stations to find people enthusiastic of WTWY's mission to attend their gala which is hosted in the summer
